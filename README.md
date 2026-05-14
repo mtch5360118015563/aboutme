@@ -1,2 +1,2 @@
 # about me project
-no way
+Jerson Mitch D. Pavia Final Project
